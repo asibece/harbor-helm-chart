@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  Library:
+  - apiVersion: v2
+    appVersion: "0.1"
+    created: "2022-12-04T14:27:56.6299121+05:30"
+    description: updated Harbor helm chart
+    digest: 149afc047726db89641693f7ec8bc805cfa4b2f1ec31521ad09c88e71f1b7930
+    name: Library
+    type: application
+    urls:
+    - Library-0.1.tgz
+    version: "0.1"
+generated: "2022-12-04T14:27:56.6209305+05:30"
